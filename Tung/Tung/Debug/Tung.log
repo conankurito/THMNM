@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Code\Tung\Tung\Source.cpp(80,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Code\Tung\Tung\Source.cpp(33): warning C4715: 'themNode': not all control paths return a value
+  Tung.vcxproj -> D:\Code\Tung\Debug\Tung.exe

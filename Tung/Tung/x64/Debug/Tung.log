@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Code\Tung\Tung\main.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Tung.vcxproj -> D:\Code\Tung\x64\Debug\Tung.exe
